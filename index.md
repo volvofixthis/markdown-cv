@@ -16,7 +16,17 @@ Creating best Managed k8s experience for users.
 
 ## About me
 
-I'm a professional Senior Backend Developer with proficiency in various technologies, including Golang, databases, brokers and Kubernetes. I design, develop, deploy, and support complex distributed, optimized, high-load, fault-tolerant systems. I possess strong debugging skills and expertise in solving complex distributed problems. I have 12 years of industry experience, including 5 years working with Python and 3 years with Golang. In my free time, I enjoy staying active—dancing occasionally, longboarding, and spending time with interesting people. I'm also interested in DIY projects and strive to learn something new every day. I love walking with my dog.
+A professional Senior Backend Developer with proficiency in various technologies such as Golang, Python, databases, API gateways, and Kubernetes.
+
+Experienced in designing, developing, deploying, and supporting complex distributed, optimized, high-load, fault-tolerant systems, with strong debugging skills for solving complex distributed problems.
+
+With 12 years of industry experience, including 7 years working with Python and 5 years with Golang.
+
+Free time is spent staying active—dancing occasionally, longboarding, and enjoying the company of interesting people.
+
+Passionate about DIY projects and always eager to learn something new every day.
+
+Walking with the dog is a favorite pastime.
 
 ## Specialized in
 
@@ -47,5 +57,24 @@ __Volgograd State University, Moscow__
 `November 2022`
 __Gcore__, Tbilisi, Kubernetes software engineer
 
+- Accelerated the creation of Kubernetes clusters from approximately 15 minutes to 2 minutes
+- Developed the etcd controller that enhanced the reliability of storage for managed Kubernetes clusters.
+- Lowered managed k8s clusters resource usage
+- Developed new service Registry as a Service)
+- Added cilium support with DSR
+- Replaced OpenVPN with konnectivity
+
 `June 2017 - July 2022`
 __RBC__, Moscow
+
+- Developed and deployed various REST APIs, including authorization and billing, resulting in a 300% increase from an agile matrix of offers.
+- Created a mobile billing solution, leading to a 100% revenue increase from mobile subscriptions.
+- Designed, developed, and deployed a service provisioning microservice implemented in Golang, contributing to a 200% revenue boost through agile service sets for users.
+- Introduced the practice of collecting traces and integrating them into the workflow, significantly improving the investigation of complex distributed issues due to enhanced observability. Investigation time was reduced by 75%.
+- Implemented the practice of collecting and visualizing metrics using InfluxDB, Grafana, and Telegraf.
+- Designed, developed, and deployed a custom API gateway using KrakenD (Lura).
+
+`March 2016 - June 2017`
+__My City__, Moscow
+
+- Worked on news content delivery solution
