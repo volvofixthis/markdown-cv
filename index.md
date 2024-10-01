@@ -16,15 +16,14 @@ Delivering the best managed Kubernetes experience for users.
 
 ## About me
 
-Senior Backend Developer proficient in various technologies, including Golang, Python, databases, API gateways, and Kubernetes.
+Senior Backend Developer with extensive expertise in designing, developing,  
+and maintaining distributed, high-performance, reliable systems.  
 
-Skilled in designing, developing, deploying, and supporting complex distributed, optimized, high-load, fault-tolerant systems, with strong debugging abilities for solving complex distributed problems.
+Over 12 years of industry experience, including 7 years working with Python and 5 years with Golang.  
 
-Over 12 years of industry experience, including 7 years working with Python and 5 years with Golang.
+Free time is spent staying active — dancing occasionally, longboarding, and enjoying the company of interesting people.  
 
-Free time is spent staying active—dancing occasionally, longboarding, and enjoying the company of interesting people.
-
-Passionate about DIY projects and always eager to learn something new every day.
+Passionate about DIY projects and always eager to learn something new every day.  
 
 Walking with the dog is a favorite pastime.
 
