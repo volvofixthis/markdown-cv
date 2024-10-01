@@ -9,7 +9,7 @@ Kubernetes software developer
 <a href="https://github.com/volvofixthis">github.com/volvofixthis</a>
 | <a href="https://www.linkedin.com/in/konstantin-losev-574919252/">linkedin</a>
 </div>
-<img src="./media/photo.jpg" height="240px">
+<img src="./media/photo2.jpg" height="240px">
 
 ## Currently
 
