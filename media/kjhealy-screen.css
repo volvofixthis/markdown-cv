@@ -121,7 +121,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 1em;
 	position: relative;
 	left: 33%;
@@ -134,7 +134,7 @@ h1+p {
 }
 
 h2 {
-	font-size: 16px;
+	font-size: 18px;
 	color: #a00;
 	position: relative;
 	text-align: right;
@@ -142,7 +142,7 @@ h2 {
 }
 
 h3 {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 2em; 
 	position: relative;
 	text-align: right;
