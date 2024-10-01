@@ -10,6 +10,8 @@ Kubernetes software developer.
 | <a href="https://www.linkedin.com/in/konstantin-losev-574919252/">linkedin</a>
 </div>
 
+![my photo](./media/photo.jpg)
+
 ## Currently
 
 Delivering the best managed Kubernetes experience for users.
