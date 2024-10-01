@@ -50,7 +50,7 @@ __Volgograd State University, Moscow__
 
 - bachelor's degree in informatics
 
-## Occupation
+## Work Experience
 
 `Nov 2022`
 __Gcore__, Tbilisi, Kubernetes software engineer
