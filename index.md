@@ -52,7 +52,7 @@ __Volgograd State University, Moscow__
 
 ## Occupation
 
-`November 2022`
+`Nov 2022`
 __Gcore__, Tbilisi, Kubernetes software engineer
 
 - Accelerated the creation of Kubernetes clusters from approximately 15 minutes to 2 minutes
@@ -62,7 +62,7 @@ __Gcore__, Tbilisi, Kubernetes software engineer
 - Added cilium support with DSR
 - Replaced OpenVPN with konnectivity
 
-`June 2017 - July 2022`
+`Jun 2017`
 __RBC__, Moscow, Golang/Python backend developer
 
 - Developed and deployed various REST APIs, including authorization and billing, resulting in a 300% increase from an agile matrix of offers.
@@ -72,12 +72,12 @@ __RBC__, Moscow, Golang/Python backend developer
 - Implemented the practice of collecting and visualizing metrics using InfluxDB, Grafana, and Telegraf.
 - Designed, developed, and deployed a custom API gateway solution using KrakenD (Lura).
 
-`March 2016 - June 2017`
+`Mar 2016`
 __My City__, Moscow, Backend Python developer
 
 - Worked on news content delivery solution
 
-`June 2009 - March 2016`
+`Jun 2009`
 __Freelance__, Volgograd
 
 - Maintained 40 different websites
