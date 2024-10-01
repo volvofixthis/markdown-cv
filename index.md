@@ -3,7 +3,7 @@ layout: cv
 title: Losev Konstantin CV
 ---
 # Losev Konstantin
-Kubernetes software developer.
+Kubernetes software developer
 
 <div id="webaddress">
 <a href="https://github.com/volvofixthis">github.com/volvofixthis</a>
