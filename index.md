@@ -38,7 +38,7 @@ Walking with the dog is a favorite pastime.
 - Kubernetes
 - Golang, Python
 - Linux
-- MongoDB, PostgreSQL, Redis
+- PostgreSQL, MongoDB, etcd, Redis
 - Kafka, RabbitMQ, Nats, NSQ, MQTT
 - Bash, Terraform, Ansible, Helm, Kustomize, ArgoCD, Gitlab
 
