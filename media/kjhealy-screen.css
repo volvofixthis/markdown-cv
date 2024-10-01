@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 20px;
+	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -102,6 +102,7 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+    list-style-type: square
 	/*color: #777;*/
 }
 
@@ -166,7 +167,7 @@ a:hover {
 	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 100%;
 }
 
 #webaddress a {
