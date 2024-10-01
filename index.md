@@ -3,7 +3,7 @@ layout: cv
 title: Losev Konstantin CV
 ---
 # Losev Konstantin
-k8s software developer.
+Kubernetes software developer.
 
 <div id="webaddress">
 <a href="https://github.com/volvofixthis">github.com/volvofixthis</a>
@@ -12,7 +12,7 @@ k8s software developer.
 
 ## Currently
 
-Creating best Managed k8s experience for users.
+Delivering the best managed Kubernetes experience for users.
 
 ## About me
 
@@ -36,7 +36,7 @@ Walking with the dog is a favorite pastime.
 - English, B2
 
 ### Technologies
-- Kubernetes 
+- Kubernetes
 - Golang, Python
 - Linux
 - MongoDB, PostgreSQL, Redis
