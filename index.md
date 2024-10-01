@@ -63,7 +63,7 @@ __Gcore__, Tbilisi, Kubernetes software engineer
 - Replaced OpenVPN with konnectivity
 
 `June 2017 - July 2022`
-__RBC__, Moscow
+__RBC__, Moscow, Golang/Python backend developer
 
 - Developed and deployed various REST APIs, including authorization and billing, resulting in a 300% increase from an agile matrix of offers.
 - Created a mobile billing solution, leading to a 100% revenue increase from mobile subscriptions.
