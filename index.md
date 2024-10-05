@@ -55,12 +55,12 @@ __Volgograd State University, Moscow__
 `Nov 2022`
 __Gcore__, Tbilisi, Kubernetes software engineer
 
-- Accelerated the creation of Kubernetes clusters from approximately 15 minutes to 2 minutes
+- Accelerated the creation of Kubernetes clusters by 800%, reducing the setup time from approximately 15 minutes to just 2 minutes.
 - Developed an etcd controller that enhanced the reliability of storage for managed Kubernetes clusters.
-- Lowered managed k8s clusters resource usage
-- Developed new service Container registry
-- Added cilium support with DSR
-- Replaced OpenVPN with konnectivity
+- Lowered managed k8s clusters resource usage.
+- Developed new service Container registry.
+- Added cilium support with DSR.
+- Replaced OpenVPN with konnectivity.
 
 `Jun 2017`
 __RBC__, Moscow, Golang/Python backend developer
@@ -75,9 +75,9 @@ __RBC__, Moscow, Golang/Python backend developer
 `Mar 2016`
 __My City__, Moscow, Backend Python developer
 
-- Worked on news content delivery solution
+- Worked on news content delivery solution.
 
 `Jun 2009`
 __Freelance__, Volgograd
 
-- Maintained 40 different websites
+- Maintained 40 different websites.
