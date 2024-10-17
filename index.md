@@ -36,16 +36,16 @@ Walking with the dog is a favorite pastime.
 - English, B2
 
 ### Technologies
-- Kubernetes
+- Kubernetes, cilium, calico
 - Golang, Python
-- Linux
+- Linux, eBPF
 - PostgreSQL, MongoDB, etcd, Redis
 - Kafka, RabbitMQ, Nats, NSQ, MQTT
 - Bash, Terraform, Ansible, Helm, Kustomize, ArgoCD, Gitlab
 
 ## Education
 
-`2009 - 2014`
+`2004 - 2009`
 __Volgograd State University, Moscow__
 
 - bachelor's degree in informatics
@@ -59,7 +59,7 @@ __Gcore__, Tbilisi, Kubernetes software engineer
 - Developed an etcd controller that enhanced the reliability of storage for managed Kubernetes clusters.
 - Lowered managed k8s clusters resource usage.
 - Developed new service Container registry.
-- Added cilium support with DSR.
+- Added cilium support with eBPF and DSR for client clusters.
 - Replaced OpenVPN with konnectivity.
 
 `Jun 2017`
