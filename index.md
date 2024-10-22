@@ -7,7 +7,8 @@ Kubernetes software developer
 
 <div id="webaddress">
 <a href="https://github.com/volvofixthis">github.com/volvofixthis</a>
-| <a href="https://www.linkedin.com/in/konstantin-losev-574919252/">linkedin</a>
+| <a href="https://www.linkedin.com/in/konstantin-losev-574919252/">linkedin</a> 
+| <a href="https://t.me/lakireflow">t.me/lakireflow</a>
 </div>
 <img src="./media/photo3.jpg" height="480px">
 
